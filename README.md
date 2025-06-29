@@ -4,6 +4,8 @@
 
 This project implements a Convolutional Neural Network (CNN) for recognizing handwritten English alphabets (A-Z) using the Kaggle A-Z Handwritten Data dataset.
 
+![CNN Architecture](cnn_visualkeras.png)
+
 ## Features
 - Data preprocessing and normalization of 28x28 grayscale images.
 - CNN architecture with convolutional, batch normalization, max pooling, dropout, and dense layers.
